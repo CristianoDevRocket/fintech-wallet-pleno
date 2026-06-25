@@ -121,7 +121,13 @@ Senha:  password123
 
 ## Deploy
 
-> Link do deploy: *(a ser preenchido após o deploy)*
+Hospedado no **Railway** (serviços independentes):
+
+| Serviço  | URL                                                        |
+|----------|------------------------------------------------------------|
+| Frontend | https://frontend-production-818c.up.railway.app            |
+| Backend  | https://backend-production-fa85.up.railway.app             |
+| API base | https://backend-production-fa85.up.railway.app/api         |
 
 ---
 
