@@ -71,7 +71,7 @@ cp .env.example .env
 npm run dev
 ```
 
-Aplicação disponível em: `http://localhost:5175`
+Aplicação disponível em: `http://localhost:5173`
 
 ---
 
